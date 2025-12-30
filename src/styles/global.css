@@ -1,0 +1,85 @@
+/* ===== APP FRAME ===== */
+
+.app-shell {
+  display: flex;
+  min-height: 100vh;
+  background: var(--bg);
+}
+
+/* ===== SIDE NAV ===== */
+
+.side-nav {
+  width: 240px;
+  padding: 3rem 2rem;
+  border-right: 1px solid var(--border);
+  background: var(--surface-variant);
+}
+
+.brand {
+  font-family: var(--font-heading);
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 3rem;
+  color: var(--text-primary);
+}
+
+.nav-links a {
+  display: block;
+  margin-bottom: 1.25rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.nav-links a:hover {
+  color: var(--primary);
+}
+
+/* ===== CONTENT AREA ===== */
+
+.content-area {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  padding: 4rem 2rem;
+}
+
+/* ===== CONTENT SURFACE ===== */
+
+.content-surface {
+  width: 100%;
+  max-width: 820px;
+  background: var(--surface);
+  border-radius: 28px;
+  padding: 4.5rem 5rem;
+  border: 1px solid var(--border);
+  box-shadow: 0 30px 60px rgba(0,0,0,0.08);
+}
+
+/* ===== TYPOGRAPHY ===== */
+
+h1 {
+  font-family: var(--font-heading);
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-family: var(--font-heading);
+  font-size: 1.9rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  font-size: 1.05rem;
+  line-height: 1.9;
+  color: var(--text-secondary);
+  margin-bottom: 1.6rem;
+}
+
+/* ===== BLOG META ===== */
+
+.blog-meta {
+  color: var(--text-tertiary);
+  margin-bottom: 3rem;
+  font-size: 0.95rem;
+}

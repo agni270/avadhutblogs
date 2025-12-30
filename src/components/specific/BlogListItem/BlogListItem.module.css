@@ -1,0 +1,15 @@
+.item {
+  display: block;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #222;
+}
+
+.item h2 {
+  margin: 0 0 0.25rem;
+  font-size: 1.4rem;
+}
+
+.item span {
+  font-size: 0.9rem;
+  color: var(--muted);
+}

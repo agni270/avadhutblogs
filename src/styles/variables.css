@@ -1,0 +1,27 @@
+:root {
+  /* BRAND */
+  --primary: #8db7a3;
+  --on-primary: #2f2a26;
+  --primary-container: #e6f1ec;
+  --on-primary-container: #4a665a;
+
+  /* SURFACE */
+  --bg: #fbf9f4;
+  --surface: #ffffff;
+  --surface-variant: #f2eee6;
+  --inverse-surface: #e6f1ec;
+
+  /* TEXT */
+  --text-primary: #3a2d26;
+  --text-secondary: #6f6258;
+  --text-tertiary: #8e847a;
+
+  /* OUTLINE */
+  --border: #e3ddd2;
+
+  /* TYPOGRAPHY */
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-heading: "Playfair Display", serif;
+
+  --content-width: 760px;
+}
