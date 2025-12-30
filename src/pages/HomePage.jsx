@@ -42,7 +42,7 @@ export default function HomePage() {
                 </p>
 
                 <div className="meta">
-                  Vader · 30 Dec 2025 · 6 min read
+                  Vader · 30 Dec 2025 · 15 min read
                 </div>
               </div>
 
