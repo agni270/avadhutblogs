@@ -87,7 +87,7 @@ export default function Blog_UnderstandingRevolution() {
          To choose revolution is to accept responsibility for what follows collapse. 
          Power vacuums do not remain empty. Institutions do not dissolve cleanly. 
          Violence does not obey intention. Ideals do not govern themselves.</p>
-         <h2>A revolutionary must calculate</h2>
+         <h3>A revolutionary must calculate</h3>
          <ul className="article-list-points">
             <li>Who holds authority when the old structure falls</li>
             <li>How legitimacy is established and enforced</li>
@@ -98,13 +98,13 @@ export default function Blog_UnderstandingRevolution() {
        <p> These are not abstract concerns. They are guaranteed outcomes.
         Anyone unwilling to confront them has no business speaking of revolution.</p>
 
-        <hr className="article-divider" />
+      
 
         <h2>Emotion as a Liability</h2>
         <p>
          Emotion is not useless, but it is never sufficient. 
          At best, it is fuel. Fuel without control burns indiscriminately.</p>
-         <h2>When emotion is allowed to lead</h2>
+         <h3>When emotion is allowed to lead</h3>
          <ul className="article-list-points">
             <li>Premature action replaces preparation</li>
             <li>Moral certainty replaces accountability</li>
